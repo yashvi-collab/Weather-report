@@ -1,0 +1,1 @@
+Climate View is a simple Weather App made using Python and Tkinter. The user selects any Indian state from the dropdown menu, and the app shows the current weather, temperature, description and pressure of any selected state using the Openweather API. It has a clean and beautiful interface with cursive fonts and a smooth background.
